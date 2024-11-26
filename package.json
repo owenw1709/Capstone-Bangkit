@@ -1,0 +1,15 @@
+{
+    "name": "schedmate-api",
+    "version": "1.0.0",
+    "description": "APIs for Schedmate student role",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "@hapi/hapi": "^20.2.1",
+      "jsonwebtoken": "^9.0.0",
+      "joi": "^17.9.2"
+    }
+  }
+  
